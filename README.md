@@ -6,11 +6,26 @@
 
 -  I’m currently learning **django (python) & react**
 
--  Ask me about **technology and web development**
-
 -  How to reach me **akhandpratapsingh11C@gmail.com**
 
--  Fun fact **i am funny sometimes**
+<br>
+
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Developer:
+
+    def __init__(self):
+        self.name = "Aditya Kumar 😊"
+        self.role = "Backend Developer 💻"
+        self.love = "Python 🐍"
+        self.location = "India"
+
+    def say_hi(self):
+        print("Thank you for visiting, I hope you find some of my work intriguing.")
+
+me = Developer()
+me.say_hi()
 
 <br>
 
