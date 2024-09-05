@@ -2,15 +2,15 @@
 <h3 align="center">Backend developer | Competitive Programmer</h3>
 <br>
 
-- 🔭 I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)
+-  I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)
 
-- 🌱 I’m currently learning **django (python) & react**
+-  I’m currently learning **django (python) & react**
 
-- 💬 Ask me about **technology and web development**
+-  Ask me about **technology and web development**
 
-- 📫 How to reach me **akhandpratapsingh11C@gmail.com**
+-  How to reach me **akhandpratapsingh11C@gmail.com**
 
-- ⚡ Fun fact **i am funny sometimes**
+-  Fun fact **i am funny sometimes**
 
 <br>
 
