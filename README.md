@@ -9,9 +9,10 @@
 -  How to reach me **akhandpratapsingh11C@gmail.com**
 
 <br>
-
+<!--
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
+-->
 
 class Developer:
 
@@ -24,8 +25,8 @@ class Developer:
     def say_hi(self):
         print("Thank you for visiting, I hope you find some of my work intriguing.")
 
-me = Developer()
-me.say_hi()
+<!-- me = Developer() --> <br>
+<!-- me.say_hi() -->
 
 <br>
 
