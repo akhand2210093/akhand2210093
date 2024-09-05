@@ -1,14 +1,5 @@
 <h1 align="center">Hey, I'm Akhand</h1>
 <h3 align="center">Backend developer | Competitive Programmer</h3>
-<br>
-
--  I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)
-
--  I’m currently learning **django (python) & react**
-
--  How to reach me **akhandpratapsingh11C@gmail.com**
-
-<br>
 
 ```py
 # !/usr/bin/python
@@ -31,6 +22,16 @@ me.say_hi()
 
 <br>
 
+<br>
+
+-  I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)
+
+-  I’m currently learning **django (python) & react**
+
+-  How to reach me **akhandpratapsingh11C@gmail.com**
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhand-pratap-singh-07843a291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhand-pratap-singh-07843a291" height="30" width="40" /></a>
@@ -43,9 +44,4 @@ me.say_hi()
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand2210093&show_icons=true&locale=en&layout=compact" alt="akhand2210093" /></p>
-<br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhand2210093&show_icons=true&locale=en" alt="akhand2210093" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand2210093&" alt="akhand2210093" /></p>
