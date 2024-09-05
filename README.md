@@ -76,4 +76,4 @@ me.say_hi()
 </p>
 <br>
 
-<img align="center" width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img align="center" width="800px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif" />
