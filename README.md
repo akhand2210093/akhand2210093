@@ -66,7 +66,8 @@ me.say_hi()
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
-
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand2210093&show_icons=true&locale=en&layout=compact" alt="akhand2210093" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,7 +75,5 @@ me.say_hi()
 <a href="https://instagram.com/akhand.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhand.__" height="30" width="40" /></a>
 </p>
 <br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand2210093&show_icons=true&locale=en&layout=compact" alt="akhand2210093" /></p>
 
 <img align="center" width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
