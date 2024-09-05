@@ -24,7 +24,6 @@ me.say_hi()
 -  I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)<br>
 -  I’m currently learning **django (python) & react**<br>
 -  How to reach me **akhandpratapsingh11C@gmail.com**<br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,7 +61,7 @@ me.say_hi()
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand2210093&show_icons=true&locale=en&layout=compact" alt="akhand2210093" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -71,5 +70,4 @@ me.say_hi()
 <a href="https://instagram.com/akhand.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhand.__" height="30" width="40" /></a>
 </p>
 <br>
-
 <img align="center" width="800px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif" />
