@@ -21,13 +21,9 @@ me.say_hi()
 ```
 
 <br>
-
 -  I’m currently working on [cloud computing cell's app](https://github.com/akhand2210093/ccc_app)
-
 -  I’m currently learning **django (python) & react**
-
 -  How to reach me **akhandpratapsingh11C@gmail.com**
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
